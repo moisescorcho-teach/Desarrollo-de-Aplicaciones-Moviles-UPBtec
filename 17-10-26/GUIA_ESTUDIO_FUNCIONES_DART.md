@@ -254,7 +254,7 @@ Envío Pereira (Express):        $75.00
 
 ---
 
-## Reto Extra para los Estudiantes (Para afianzar conocimientos)
+## Reto Extra (Para afianzar conocimientos)
 
 1. En el **Ejercicio 1**, modifica la función para que reciba un tercer parámetro opcional llamado `impuestoIVA` con un valor por defecto de `19.0%` y calcula el precio final sumando primero el IVA y luego aplicando el descuento.
 2. En el **Ejercicio 2**, agrega una nueva regla: si el `pesoKg` supera los `50.0` kg, debe cobrar un recargo por sobrepeso de `$20.0` fijos al costo final.
